@@ -1,0 +1,23 @@
+[
+    {
+        "Id": "Eden.SprinklerWorkbenchrecipe", 
+        "GroupId": "Eden.MachineRecipes", 
+        "Title": "SprinklerWorkbench.title", 
+        "Text": "SprinklerWorkbench.text", 
+        "Recipe": "Sprinkler Workbench", 
+        "WhichBG": 0, 
+		"Repeatable": false, 
+
+		// CONDITIONS FOR DELIVERY
+
+        "FriendshipConditions": 
+        [
+            {
+                "NpcName": "Clint",
+                "FriendshipLevel": 3, 
+            }
+        ],
+		"RandomChance": 0.25,
+        "RecipeKnown": ["Quality Sprinkler"],
+    }
+]

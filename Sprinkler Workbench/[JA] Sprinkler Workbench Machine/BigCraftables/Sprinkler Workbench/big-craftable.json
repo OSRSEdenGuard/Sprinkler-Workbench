@@ -1,0 +1,54 @@
+{
+    "Name": "Sprinkler Workbench",
+    "Description": "A workbench used to upgrade sprinklers to the next tier.",
+    "Price": 1,
+    "ProvidesLight": false,
+    "ReserveNextIndex": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335, //Iron Bar
+            "Count": 2,
+        },
+		{
+            "Object": 336, //Gold Bar
+            "Count": 1,
+        },
+        {
+            "Object": 388, //Wood
+            "Count": 50,
+        }, ],
+        "CanPurchase": false,
+    },
+    "CanPurchase": false,
+	"NameLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        // "es": "",
+        // "ko": "",
+        // "de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        // "zh": "",
+    }
+}

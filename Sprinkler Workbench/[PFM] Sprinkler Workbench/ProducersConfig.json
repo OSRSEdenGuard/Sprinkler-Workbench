@@ -1,0 +1,7 @@
+﻿[
+	{
+		"ProducerName": "Sprinkler Workbench", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+]

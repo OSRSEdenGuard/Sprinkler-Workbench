@@ -1,0 +1,26 @@
+﻿[
+	{ 
+		"ProducerName": "Sprinkler Workbench", 
+		"InputIdentifier": "599", //Sprinkler
+		"InputStack": 1, 
+		"AdditionalFuel": {
+			"338": 1, //Refined Quartz
+			"336": 1  //Gold Bar
+		}, 
+		"MinutesUntilReady": 120, 
+		"OutputIdentifier": "621", //Quality Sprinkler
+		"Sounds": [ "clank", "clank,clank" ], 
+	},
+	{ 
+		"ProducerName": "Sprinkler Workbench", 
+		"InputIdentifier": "621", //Quality Sprinkler
+		"InputStack": 1, 
+		"AdditionalFuel": {
+			"787": 1, //Battery Pack
+			"337": 1  //Iridium Bar
+		}, 
+		"MinutesUntilReady": 240, 
+		"OutputIdentifier": "645", //Iridium Sprinkler
+		"Sounds": [ "clank", "clank,clank" ], 
+	}
+]

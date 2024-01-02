@@ -1,0 +1,13 @@
+﻿{
+    "Name": "[MFM] Sprinkler Workbench Letters",
+    "Author": "Eden",
+    "Version": "1.0.0",
+    "Description": "Sends crafting recipes to the player.",
+    "UniqueID": "Eden.SprinklerWorkbenchforMFM",
+    "MinimumApiVersion": "3.8.0",
+    "Dependencies": [],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.MailFrameworkMod"
+    },
+}

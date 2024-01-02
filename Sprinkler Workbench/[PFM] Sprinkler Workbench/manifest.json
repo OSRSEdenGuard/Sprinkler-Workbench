@@ -1,0 +1,18 @@
+﻿{
+    "Name": "[PFM] Sprinkler Workbench",
+    "Author": "Eden",
+    "Version": "1.0.0",
+    "Description": "Sprinkler Workbench Producer Framework Mod component.",
+    "UniqueID": "Eden.SprinklerWorkbenchPFM",
+    "MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [],
+    "Dependencies": [
+    {
+        "UniqueID": "Eden.SprinklerWorkbench",
+        "IsRequired": true
+    },	],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.ProducerFrameworkMod"
+    },    
+}

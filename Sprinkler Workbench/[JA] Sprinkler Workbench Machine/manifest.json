@@ -1,0 +1,18 @@
+{
+    "Name": "Sprinkler Workbench",
+    "Author": "Eden",
+    "Description": "Adds the Sprinkler Workbench to the game via PFM machines. Requires PFM and JA to work properly.",
+    "Version": "1.0.0",
+    "MinimumApiVersion": "3.8.0",
+    "UniqueID": "Eden.SprinklerWorkbench",
+	"UpdateKeys": [],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+		"Dependencies": [
+    {
+        "UniqueID": "DIGUS.ProducerFrameworkMod",
+        "IsRequired": true,
+    }, ],
+}
